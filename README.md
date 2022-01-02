@@ -1,2 +1,2 @@
-# simple-php-system
+# simple-php&mysql-system
 employee management system
