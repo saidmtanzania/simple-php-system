@@ -48,11 +48,11 @@ INSERT INTO `employee` (`empno`, `eFname`, `eLname`, `eEmail`, `post`, `salary`)
 (5, 'Rachel', 'Kyonzo', 'rkyonzo@yahoo.com', 'Accounts', 100000);
 
 --
--- Indexes for dumped tables
+-- Indexes for dumped tables of simple php system
 --
 
 --
--- Indexes for table `employee`
+-- Indexes for table `employee` of simple php system
 --
 ALTER TABLE `employee`
   ADD PRIMARY KEY (`empno`);
